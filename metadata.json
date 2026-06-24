@@ -1,0 +1,6 @@
+{
+  "name": "OSINT Proxy Gateway",
+  "description": "A premium OSINT SaaS and API proxy gateway platform with drag-and-drop result designing, dynamic response transformations, and robust VPS-ready architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
